@@ -8,5 +8,6 @@ public interface EmpServiceInterface {
 
 	public abstract List<EmployeeBo> insertRecord(EmployeeBo employeeBo);
 	public abstract List<EmployeeBo> getAll();
+	
 
 }
